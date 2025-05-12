@@ -24,6 +24,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="20" />
+  <img src="https://github.com/user-attachments/assets/a0ac59ed-f03c-453f-863b-f60336e19b1a" height="40" alt="sqlite logo"  />
+  <img width="20" />
+  <img src="https://github.com/user-attachments/assets/7e70f826-523f-47c2-97bb-2d84b29a6e80" height="40" alt="html logo"  />
+  <img width="20" />
+  <img src="https://github.com/user-attachments/assets/fb26c8d4-b3ad-49c4-bbf6-7cf8eeeb0d7d" height="40" alt="css logo"  />
+  <img width="20" />
+  <img src="https://github.com/user-attachments/assets/e150f06f-5146-4dd1-8142-3bbe9fca7395" height="40" alt="type script logo"  />
+  <img width="20" />
+  <img src="https://github.com/user-attachments/assets/97a1e970-195b-4a23-bdff-16ebdef4dfaf" height="40" alt="django logo"  />
 </div>
 
 ###
