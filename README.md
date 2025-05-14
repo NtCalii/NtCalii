@@ -31,9 +31,11 @@
   <img width="20" />
   <img src="https://github.com/user-attachments/assets/fb26c8d4-b3ad-49c4-bbf6-7cf8eeeb0d7d" height="40" alt="css logo"  />
   <img width="20" />
-  <img src="https://github.com/user-attachments/assets/e150f06f-5146-4dd1-8142-3bbe9fca7395" height="40" alt="type script logo"  />
+  <img src="https://github.com/user-attachments/assets/358d8383-7610-46ed-b23d-a1e9459b4981" height="40" alt="java script logo"  />
   <img width="20" />
   <img src="https://github.com/user-attachments/assets/97a1e970-195b-4a23-bdff-16ebdef4dfaf" height="40" alt="django logo"  />
+  <img width="20" />
+  <img src="https://github.com/user-attachments/assets/9737148b-9593-4511-a501-6c8ea1a1d306" height="40" alt="vscode logo"  />
 </div>
 
 ###
